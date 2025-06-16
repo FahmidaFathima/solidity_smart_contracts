@@ -29,16 +29,20 @@ Make sure you have the following installed:
    cd solidity_smart_contracts
    
 2. Install dependencies:
-npm install
+   
+   npm install
 
 3. Compile contracts:
-truffle compile
+   
+   truffle compile
 
 4. Migrate contracts (deploy to local network):
-truffle migrate
+
+   truffle migrate
 
 🧪 Run Tests:
-truffle test
+
+    truffle test
 
 📜 License
 This project is licensed under the MIT License.
